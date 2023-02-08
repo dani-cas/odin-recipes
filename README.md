@@ -10,7 +10,7 @@ Skills
 - Input different types of headers
 - Input paragraphs, images, and links
 - Create an ordered and unordered lists for my recipes
-- Organize “beginner friendly” clean code so it is understable and readable to any viewer
+- Organize “beginner friendly” clean code so it is understandable and readable to any viewer
 
 Language
 HTML
